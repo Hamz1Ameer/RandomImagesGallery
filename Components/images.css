@@ -1,0 +1,12 @@
+
+.grid_img{
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    width: 250px;
+    height: 300px;margin: 10px 5px;
+    border: solid 2px;
+    box-shadow: 3px 3px 10px ;
+}
